@@ -1,6 +1,5 @@
 
-name
-: build
+name: build
 
 on:
   push:
